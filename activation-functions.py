@@ -4,6 +4,7 @@ Created on Sat Sep  4 20:56:35 2021
 
 @author: Pano
 """
+# This is a comment
 import numpy as np
 import matplotlib.pyplot as plt
 import time
